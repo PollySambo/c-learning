@@ -1,5 +1,7 @@
 ## What is C# Sharp
 
+https://www.w3resource.com/csharp-exercises/
+
 //
 C# is an elegant and type-safe object-oriented language that enables developers to build a variety of secure and robust applications that run on the .NET Framework. You can use C# to create Windows client applications, XML Web services, distributed components, client-server applications, database applications, and much, much more.
 
