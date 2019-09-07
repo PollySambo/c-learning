@@ -8,3 +8,7 @@ C# is an elegant and type-safe object-oriented language that enables developers 
 C# syntax is highly expressive, yet it is also simple and easy to learn. The curly-brace syntax of C# will be instantly recognizable to anyone familiar with C, C++ or Java. Developers who know any of these languages are typically able to begin to work productively in C# within a very short time.
 
 The best way we learn anything is by practice and exercise questions. We have started this section for those (beginner to intermediate) who are familiar with C# Sharp programming. Hope, these exercises help you to improve your C# Sharp programming coding skills. Currently, following sections are available, we are working hard to add more exercises .... Happy Coding!
+
+
+//https://www.youtube.com/watch?v=tbnzAVRZ9Xc <watch everyday>
+https://www.youtube.com/watch?v=OIdOFo7b2pA<millionaire morning>

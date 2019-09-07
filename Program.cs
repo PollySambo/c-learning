@@ -8,7 +8,7 @@ namespace c_sharp_learning
         static void Main(string[] args)
         {
            BasicExcercise instance = new BasicExcercise();
-           instance.Ex11();
+           instance.Ex12();
         }
 
     }

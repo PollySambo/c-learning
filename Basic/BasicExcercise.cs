@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 /*
 link for the excercises
@@ -69,19 +70,8 @@ namespace c_sharp_learning.Basic
 
             int multiply = first * second * third;
 
-            Console.Write(first );
-             Console.Write(" ");
-            Console.Write("x" );
-            Console.Write(" ");
-            Console.Write(second );
-            Console.Write(" ");
-            Console.Write("x" );
-            Console.Write(" ");
-            Console.Write(third );
-            Console.Write(" ");
-            Console.Write("=" );
-            Console.Write(" ");
-            Console.WriteLine(multiply);
+            Console.Write(first + " " + "x" + " " + second + " " + "x" + " " +
+             third + " " + "=" + " " + multiply);
 
         }
 
@@ -99,55 +89,11 @@ namespace c_sharp_learning.Basic
             int div = first / second;
             int mod = first % second;
 
-            Console.Write(first);
-            Console.Write(" ");
-            Console.Write("+");
-            Console.Write(" ");
-            Console.Write(second);
-            Console.Write(" ");
-            Console.Write("=" );
-            Console.Write(" ");
-            Console.WriteLine(add);
-
-            Console.Write(first);
-            Console.Write(" ");
-            Console.Write("-");
-            Console.Write(" ");
-            Console.Write(second);
-            Console.Write(" ");
-            Console.Write("=" );
-            Console.Write(" ");
-            Console.WriteLine(minus);
-
-            Console.Write(first);
-            Console.Write(" ");
-            Console.Write("x");
-            Console.Write(" ");
-            Console.Write(second);
-            Console.Write(" ");
-            Console.Write("=" );
-            Console.Write(" ");
-            Console.WriteLine(mult);
-
-            Console.Write(first);
-            Console.Write(" ");
-            Console.Write("/");
-            Console.Write(" ");
-            Console.Write(second);
-            Console.Write(" ");
-            Console.Write("=" );
-            Console.Write(" ");
-            Console.WriteLine(div);
-
-            Console.Write(first);
-            Console.Write(" ");
-            Console.Write("mod");
-            Console.Write(" ");
-            Console.Write(second);
-            Console.Write(" ");
-            Console.Write("=" );
-            Console.Write(" ");
-            Console.WriteLine(mod);
+            Console.Write(first + " " + "+" + " " + second + " " + "=" + " " + add);
+            Console.Write(first + " " + "-" + " " + second + " " + "=" + " " + minus);
+            Console.Write(first + " " + "x" + " " + second + " " + "=" + " " + mult);
+            Console.Write(first + " " + "/" + " " + second + " " + "=" + " " + div);
+            Console.Write(first + " " + "mod" + " " + second + " " + "=" + " " + mod);
 
         }
 
@@ -162,14 +108,7 @@ namespace c_sharp_learning.Basic
             while (i <= 10)
             {
                 int ans = i * mult;
-                Console.Write(mult);
-                Console.Write(" ");
-                Console.Write("*");
-                Console.Write(" ");
-                Console.Write(i);
-                Console.Write(" ");
-                Console.Write("=");
-                Console.Write(" ");
+                Console.Write(mult + " " + "*" + " " + i + " " + "=" + " ");
                 Console.WriteLine(ans);
                 i++;
             }
@@ -226,13 +165,39 @@ namespace c_sharp_learning.Basic
             Console.WriteLine("You look older than" + " " + age);
         }
 
-        // public void Ex12()
-        // {
-        //     Console.WriteLine("Enter a digit");
-        //     int num = Convert.ToInt32(Console.ReadLine());
+        public void Ex12()
+        {
+            Console.WriteLine("Enter a digit");
+            int num = Convert.ToInt32(Console.ReadLine());
 
-        //     int a = num + num  + num  + num;
+        }
 
-        // }
+        //String Manipulation
+
+        public void Ex15()
+        {
+            /*
+            15. Write a C# program remove specified a character from a non-empty string
+            using index of a character. Go to the editor
+            Test Data:
+            w3resource
+            Sample Output:
+            wresource
+            w3resourc
+            3resource
+             */
+             string str = "w3resource";
+
+             Console.WriteLine();
+
+        }
+
+        //number maniplation
+
+        //sorting
+
+        //converting (working with non decimals)
+
+        //file manipuation
     }
 }
