@@ -4,7 +4,6 @@
 /goinfre/psambo/Desktop/c-sharp-learning/bin/Debug/netcoreapp2.2/c-sharp-learning.dll
 /goinfre/psambo/Desktop/c-sharp-learning/bin/Debug/netcoreapp2.2/c-sharp-learning.pdb
 /goinfre/psambo/Desktop/c-sharp-learning/obj/Debug/netcoreapp2.2/c-sharp-learning.csprojAssemblyReference.cache
-/goinfre/psambo/Desktop/c-sharp-learning/obj/Debug/netcoreapp2.2/c-sharp-learning.csproj.CoreCompileInputs.cache
 /goinfre/psambo/Desktop/c-sharp-learning/obj/Debug/netcoreapp2.2/c-sharp-learning.AssemblyInfoInputs.cache
 /goinfre/psambo/Desktop/c-sharp-learning/obj/Debug/netcoreapp2.2/c-sharp-learning.AssemblyInfo.cs
 /goinfre/psambo/Desktop/c-sharp-learning/obj/Debug/netcoreapp2.2/c-sharp-learning.dll
